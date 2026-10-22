@@ -265,7 +265,6 @@ src/
 
 ## Built with
 
-- Z.ai coding assistant (used as a coding aid during development — disclosed per hackathon rule).
 - ChatGPT-class models were **not** used inside the running assistant. Qwen2.5-1.5B-Instruct (open, ≤3B) is the only language model in the running pipeline.
 
 ---
