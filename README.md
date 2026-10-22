@@ -1,4 +1,4 @@
-# OutdoorPal — GeoAI Hackathon @ CSRE, IIT Bombay
+# OutdoorPal — GeoAI
 
 > An SLM-powered outdoor-activity assistant that recommends **where** and **when** to head outdoors, grounded in live weather + geospatial data.
 
